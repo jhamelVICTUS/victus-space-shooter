@@ -1,0 +1,17 @@
+{
+  "name": "VICTUS Space Shooter",
+  "short_name": "VICTUS",
+  "description": "Matrix-styled retro space shooter with boss fight",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#00ff41",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
